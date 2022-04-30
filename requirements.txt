@@ -1,0 +1,8 @@
+telebot
+pyTelegramBotApi
+requests~=2.27.1
+bs4
+lxml
+datetime
+aiogram~=2.20
+beautifulsoup4~=4.11.1
